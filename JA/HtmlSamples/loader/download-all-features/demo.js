@@ -1,7 +1,7 @@
 $(function () {
 $.ig.loader({
-            scriptPath: "http://igniteuisamples.staging.infragistics.local/13-1/IgniteUI/js/",
-            cssPath: "http://igniteuisamples.staging.infragistics.local/13-1/IgniteUI/css/",
+            scriptPath: "http://staging.igniteui.local/13-1/IgniteUI/js/",
+            cssPath: "http://staging.igniteui.local/13-1/IgniteUI/css/",
             resources: "igHierarchicalGrid.*"
         });
 
