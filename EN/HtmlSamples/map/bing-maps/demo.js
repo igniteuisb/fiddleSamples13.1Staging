@@ -8,7 +8,7 @@ $(function () {
                 verticalZoomable: true,
                 horizontalZoomable: true,
                 overviewPlusDetailPaneVisibility: "visible",
-                overviewPlusDetailPaneBackgroundImageUri: "http://igniteuisamples.staging.infragistics.local/13-1/images/samples/maps/world.png",
+                overviewPlusDetailPaneBackgroundImageUri: "http://staging.igniteui.local/13-1/images/samples/maps/world.png",
                 panModifier: "control",
                 backgroundContent: {
                     type: "bing",
@@ -19,8 +19,8 @@ $(function () {
                     name: "worldCountries",
                     markerType: "automatic",
                     shapeMemberPath: "points",
-                    shapefileUri: "http://igniteuisamples.staging.infragistics.local/13-1/data-files/shapes/world.shp",
-                    databaseUri: "http://igniteuisamples.staging.infragistics.local/13-1/data-files/shapes/world.dbf"
+                    shapefileUri: "http://staging.igniteui.local/13-1/data-files/shapes/world.shp",
+                    databaseUri: "http://staging.igniteui.local/13-1/data-files/shapes/world.dbf"
                 }],
                 windowResponse: "immediate",
                 windowRect: {
